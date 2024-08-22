@@ -1,0 +1,22 @@
+    form {
+        width: 300px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #ececec;
+        border-radius: 5px;
+    }
+    label {
+        font-weight: bold;
+    }
+    button {
+        width: 100%;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    button:hover {
+        background-color: #0056b3;
+    }
